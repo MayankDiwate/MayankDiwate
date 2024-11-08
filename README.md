@@ -1,5 +1,5 @@
 # Hello 👋, I'm Mayank Diwate:
-🔭 Working on React and Flutter development.<br>🤝 Open to collaborating on React or Flutter projects.<br>🌱 Currently learning DevOps.<br>💭 Ask me about Flutter, React.<br>📫 How to reach me mayankdiwate007@gmail.com
+🔭 Currently working as Frontend Developer Intern at [Techstack Management](https://www.techstack.management/)<br>🤝 Open to collaborating on React or Flutter projects.<br>🌱 Currently learning DevOps.<br>💭 Ask me about Flutter, React.<br>📫 How to reach me mayankdiwate007@gmail.com
 
 
 ## 🌐 Socials:
